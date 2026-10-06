@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://green-core-kcnq.vercel.app/sitemap.xml
